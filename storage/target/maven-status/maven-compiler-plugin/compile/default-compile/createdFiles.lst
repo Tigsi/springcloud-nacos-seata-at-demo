@@ -1,0 +1,7 @@
+com\wss\storage\config\DatasourceConfiguration.class
+com\wss\storage\entity\Storage.class
+com\wss\storage\mapper\StorageMapper.class
+com\wss\storage\StorageApplication.class
+com\wss\storage\controller\StorageController.class
+com\wss\storage\service\impl\StorageServiceImpl.class
+com\wss\storage\service\StorageService.class

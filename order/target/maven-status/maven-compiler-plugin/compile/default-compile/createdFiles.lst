@@ -1,0 +1,9 @@
+com\wss\order\feign\StorageClient.class
+com\wss\order\controller\OrderController.class
+com\wss\order\service\impl\OrderServiceImpl.class
+com\wss\order\mapper\OrderMapper.class
+com\wss\order\config\DatasourceConfiguration.class
+com\wss\order\feign\AccountClient.class
+com\wss\order\entity\Order.class
+com\wss\order\service\OrderService.class
+com\wss\order\OrderApplication.class
